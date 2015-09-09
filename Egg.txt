@@ -1,0 +1,29 @@
+Lands:
+4x Darksteel Citadel
+4x Adarkar Wastes
+3x Ghost Quarter
+3x Island
+1x Plains
+15
+
+Instants:
+4x Faith's Reward
+4
+
+Sorceries:
+4x Reshape
+4x Thoughtcast
+3x Open the Vaults
+11
+
+Artifacts:
+2x Lotus Bloom
+4x Mox Opal
+4x Chromatic Star
+4x Chromatic Shere
+3x Conjuror's Bauble
+4x Terrarion
+1x Grinding Station
+4x Ichor Wellspring
+4x Krark-Clan Ironworks
+30
